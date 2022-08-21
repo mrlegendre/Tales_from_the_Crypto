@@ -10,15 +10,33 @@ Complete the following tasks:
 
 Which coin had the highest mean positive score?
 
-Which coin had the highest negative score?
+*Ethereum had the highest mean positive score at 0.07233* 
 
+Which coin had the highest compound score?
+
+*Bitcoin had the highest compound score at 0.9246*
 
 Which coin had the highest positive score?
 
+*Bitcoin had the highest positive score at 0.3720*
 
 
 ## 2.Natural Language Processing
 
+### Bitcoin Word Cloud
+![](/Images/btc_word_cloud.png)
+
+### Ethereum Word Cloud
+![](/Images/eth_word_cloud.png)
+
 
 
 ## 3.Named Entity Recognition
+
+### Bitcoin NER
+![](/Images/btc_ner.png)
+
+### Ethereum NER
+![](/Images/eth_ner.png)
+
+
